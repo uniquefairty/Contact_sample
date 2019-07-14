@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/7/14 19:41:11。
+     1>项目“D:\代码\Contact.c\Contact.c\Contact.c.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\新建文件夹\VC\bin\CL.exe /c /I"D:\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Contact.c test.c
+         test.c
+         Contact.c
+         正在生成代码...
+       Link:
+         D:\vs\新建文件夹\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\代码\Contact.c\Debug\Contact.c.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\代码\Contact.c\Debug\Contact.c.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\代码\Contact.c\Debug\Contact.c.lib" /MACHINE:X86 Debug\Contact.obj
+         Debug\test.obj
+         Contact.c.vcxproj -> D:\代码\Contact.c\Debug\Contact.c.exe
+     1>已完成生成项目“D:\代码\Contact.c\Contact.c\Contact.c.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.39
